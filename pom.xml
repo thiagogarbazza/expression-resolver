@@ -25,7 +25,7 @@
     <dependency.commons-lang3.version>3.9</dependency.commons-lang3.version>
     <dependency.commons-logging.version>1.2</dependency.commons-logging.version>
     <dependency.cucumber.version>4.7.1</dependency.cucumber.version>
-    <dependency.jackson.version>2.9.9</dependency.jackson.version>
+    <dependency.jackson.version>2.12.1</dependency.jackson.version>
     <dependency.junit.version>4.12</dependency.junit.version>
     <dependency.lombok.version>1.18.8</dependency.lombok.version>
     <dependency.mockito-core.version>2.28.2</dependency.mockito-core.version>
